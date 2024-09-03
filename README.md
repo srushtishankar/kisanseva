@@ -16,7 +16,9 @@ Transfer Learning approach was implemented with the help of **DenseNet201** arch
 
 ### Results:
 ![image](https://github.com/user-attachments/assets/846f7e2a-a87e-41e0-8224-df95fbbc12b8)
+
 ![image](https://github.com/user-attachments/assets/e1700c3e-a89a-436a-956c-924077a16bc4)
+
 ![image](https://github.com/user-attachments/assets/e2fd0fdf-b224-4e3c-8852-fce25c400524)
 
 
