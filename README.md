@@ -18,3 +18,4 @@ Transfer Learning approach was implemented with the help of **DenseNet201** arch
 ![Alt text](/media/output/home.png "Home Page")
 
 ![Alt text](/media/output/prediction.png "Prediction Page")
+
