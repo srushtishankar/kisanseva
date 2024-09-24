@@ -139,9 +139,10 @@ import os
 # Static files (CSS, JavaScript, Images)
 STATIC_URL = '/static/'
 
-# This points directly to the expected Vercel output directory
+# Ensure STATIC_ROOT points to the correct output directory
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build')
 
-# Add additional directories that contain static files
+# If you have any additional static files, ensure this is set
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
+
 
