@@ -135,7 +135,13 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 
 import os
+
+# Static files (CSS, JavaScript, Images)
 STATIC_URL = '/static/'
+
+# This points directly to the expected Vercel output directory
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build')
 
+# Add additional directories that contain static files
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 
