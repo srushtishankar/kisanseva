@@ -7,3 +7,4 @@ pip install -r requirements.txt
 
 python manage.py collectstatic --no-input
 # Remove the python manage.py migrate command
+chmod +x build.sh
