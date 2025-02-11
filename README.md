@@ -15,8 +15,7 @@ Link to Dataset: https://www.kaggle.com/datasets/roshitab/sugarcane-leaf-disease
 Transfer Learning approach was implemented with the help of **DenseNet201** architecture. To improve the accuracy of the model, **Support Vector Machine (SVM)** was incorporated in the final layer of the model. An **Accuracy** of **98%** and a **Validation Accuracy** of **97.78%** was obtained.
 
 ### Results:
-![project-1](https://github.com/user-attachments/assets/afd695e5-80f3-44cc-840d-0502e2af297f)
-
+![Frame 3233211](https://github.com/user-attachments/assets/ed321b00-651a-4679-bd5d-1d35f18ced82)
 
 ![Frame 3233210](https://github.com/user-attachments/assets/494f64d7-fada-4d55-8f79-77a0b3278482)
 
